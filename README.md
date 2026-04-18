@@ -1,13 +1,8 @@
 ## Evolve Nuker
-Evolve, fastest nuker of 2025 Written In Python.
+Evolve, one of the fastest nuker of 2025 Written In Python.
 
 ## Disclaimer
 This project is provided for educational purposes only. Use responsibly.
-
-
-
-## Credits
-This Is Not A Skid Because I Gave Credits To .darks4.sure. I Upgraded Hellium Nuker And Solved Some Bugs.
 
 ## Installation
 For compiled version:
@@ -39,7 +34,7 @@ For python version:
 - [✔] Spam Channels
 - [✔] Pick a random channel/role name and message from config.json file
 ## Contact
-- Discord: _1nonlyvampire
-- Server: https://discord.gg/afkop
+- Discord: 47jsk
+- Server: https://discord.gg/DYqWnuqAKN
 ## Contributors
-Made By _1nonlyvampire X Starboyfr_ X maxx.legend
+Made By (Vampire) 47jsk X 24pvt (MaX)
