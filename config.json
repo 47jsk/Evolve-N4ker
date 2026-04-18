@@ -1,0 +1,11 @@
+{
+  "token": "Your_Bot_token",
+  "proxy": false,
+  "nuke": {
+    "channels_name": ["evolve-runs-cord", "evolve-run-cord"],
+    "roles_name": ["evole-runs-cord", "evolve-runs-cord"],
+    "messages_content": ["@everyone AFK Runs ```Evolve Nuker``` discord.gg/afkop", "@everyone vampire was here..?? discord.gg/afkop"],
+    "guild_names": ["Evolve Runs Cord", "Vampy X Evolve"],
+    "guild_icon": "https://cdn.discordapp.com/attachments/1364900963160166400/1386801780196642916/a_fec6ecd2ca4c4b206002c7bcfef5c380.gif?ex=685b074d&is=6859b5cd&hm=ee3ea178aea3e75f28473dc79eddcbed682495c912a16cea38e9fd50001e3aaf&"
+  }
+}
